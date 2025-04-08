@@ -1,7 +1,11 @@
 # SQL_CHALLENGE
- I recently took part in the 15-Day SQL Challenge by PrepVector, where I solved real-world SQL problems using concepts like CTEs, window functions, and subqueries.
 
-It wasn’t just about writing queries  I also got to think about the business impact behind each solution, which made it even more meaningful to connect SQL with real-world scenarios.
+I recently completed the 15-Day SQL Challenge by PrepVector, where I tackled real-world SQL problems using concepts like CTEs, window functions, subqueries, and more.
 
-I’ve compiled day-wise PDFs including the question, schema, and my solutions.
-Would love to hear your thoughts on these problems and discuss your approach too  feel free to connect on my linkedin - https://www.linkedin.com/in/sai-sri-maddirala-bb88331b5/
+What made this challenge even more impactful was not just solving queries, but also reflecting on the business value behind each solution — a great way to connect SQL logic with real-world applications.
+
+I've compiled day-wise PDFs including the questions, table schema, and my solutions.
+Would love to hear your thoughts and discuss different approaches — feel free to connect with me on LinkedIn (https://www.linkedin.com/in/sai-sri-maddirala-bb88331b5/)
+
+This challenge was organized by Manisha Arora, Siddarth Ranganathan, and Venkata Sai Kumar Bysani from PrepVector. You can check it out here [ PrepVector SQL Challenge](https://challenges.prepvector.com/challenges]
+
